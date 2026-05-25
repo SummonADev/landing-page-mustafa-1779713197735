@@ -4,7 +4,8 @@
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
     "allowImportingTsExtensions": true,
-    "noEmit": true
+    "noEmit": true,
+    "outDir": "./dist"
   },
   "include": ["src"]
 }
